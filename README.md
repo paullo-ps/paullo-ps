@@ -1,16 +1,118 @@
-## Hi there 👋
+# Olá! Eu sou o Paulo Sérgio 👋
 
-<!--
-**paullo-ps/paullo-ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Software focado em transformar regras de negócio complexas em interfaces limpas, acessíveis e de alta performance. 
 
-Here are some ideas to get you started:
+📍 Manaus, AM — Brasil &nbsp;|&nbsp; ✉️ paullopsms@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 Escolha a lente pela qual deseja ver meu trabalho:
+
+<p align="center">
+  <a href="#foco-frontend"><strong>🖥️ FRONT-END</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+  <a href="#foco-backend"><strong>⚙️ BACK-END</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+  <a href="#foco-mobile"><strong>📱 MOBILE</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+  <a href="#foco-fullstack"><strong>⚡ FULLSTACK</strong></a>
+</p>
+
+---
+
+<div id="foco-frontend"></div>
+
+## 🖥️ Portfólio: Front-End 
+
+A minha especialidade atual. Foco em componentização inteligente, design responsivo e renderização otimizada no navegador.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js_16-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+</p>
+
+#### [📈 StreamBI - Admin Dashboard](https://github.com/paullo-ps/streambi-dashboard)
+Uma dashboard administrativa construída com **Next.js 16, React 19 e Tailwind v4**. Focada em visualização de dados com Recharts e responsividade híbrida (CSS + JS).
+
+#### [🛒 TechStore Dev - Mini E-commerce](https://github.com/paullo-ps/mini-e-commerce)
+Aplicação construída com **React, TypeScript e Material UI (MUI)**. Demonstra gerenciamento de estado do carrinho e persistência de dados via LocalStorage.
+
+#### [🍲 Sistema de Marmitaria](https://github.com/paullo-ps/marmitaria)
+Sistema de automação e gerenciamento de pedidos para restaurante local, desenvolvido com forte tipagem em **TypeScript**.
+
+[⬆️ Voltar ao topo](#olá-eu-sou-o-paulo-sérgio-)
+
+---
+
+<div id="foco-backend"></div>
+
+## ⚙️ Portfólio: Back-End
+
+> 🚧 **Status:** *Em laboratório / Consolidando conceitos de modelagem de dados, APIs RESTful e autenticação.*
+
+<p align="left">
+  <!-- Badges prontas para quando você ativar esta stack -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+</p>
+
+#### [📦 Nome da API / Microsserviço](#) *(Template em breve)*
+Breve descrição do serviço. Tecnologias: `Node.js`, `Express/Fastify`, `Prisma`, `PostgreSQL`.
+* **O que resolve:** [Ex: Serviço de autenticação e fila de processamento].
+* **Destaque técnico:** [Ex: Implementação de JWT e testes unitários].
+
+[⬆️ Voltar ao topo](#olá-eu-sou-o-paulo-sérgio-)
+
+---
+
+<div id="foco-mobile"></div>
+
+## 📱 Portfólio: Mobile
+
+> 🚧 **Status:** *Em laboratório / Explorando o ecossistema de desenvolvimento multiplataforma.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+</p>
+
+#### [📱 Nome do App Mobile](#) *(Template em breve)*
+Aplicativo focado em usabilidade nativa. Tecnologias: `React Native`, `Expo`, `SQLite`.
+* **O que resolve:** [Ex: Aplicativo de gestão de finanças pessoais offline-first].
+* **Destaque técnico:** [Ex: Consumo de armazenamento interno do aparelho].
+
+[⬆️ Voltar ao topo](#olá-eu-sou-o-paulo-sérgio-)
+
+---
+
+<div id="foco-fullstack"></div>
+
+## ⚡ Portfólio: Fullstack
+
+> 🚧 **Status:** *Em laboratório / Onde as duas pontas se encontram: da query no banco à tela do usuário.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js_Full-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next Fullstack" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+#### [🌐 Nome do Sistema Integrado](#) *(Template em breve)*
+Uma plataforma completa de ponta a ponta. Tecnologias: `Next.js App Router`, `Tailwind`, `Node.js`, `Docker`.
+* **O que resolve:** [Ex: Plataforma de agendamento de consultas com painel administrativo].
+* **Destaque técnico:** [Ex: CI/CD configurado e deploy automatizado].
+
+[⬆️ Voltar ao topo](#olá-eu-sou-o-paulo-sérgio-)
+
+---
+
+### 📫 Vamos conversar?
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/paulo-s%C3%A9rgio-mendes-dos-santos-914a29200/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:paullopsms@gmail.com">
+    <img src="https://img.shields.io/badge/-E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
