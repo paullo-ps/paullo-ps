@@ -28,16 +28,18 @@ A minha especialidade atual. Foco em componentização inteligente, design respo
   <img src="https://img.shields.io/badge/Next.js_16-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
   <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Lucide_Icons-F97316?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide Icons" />
   <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
 </p>
 
 #### [🎬 MovieApp Next - Catálogo de Filmes](https://github.com/paullo-ps/movie-app-next)
-Aplicação moderna construída com **Next.js 16 (App Router), TypeScript e Tailwind CSS**.
+Aplicação moderna construída com **Next.js 16 (App Router), TypeScript, Tailwind CSS e Lucide Icons**.
 * **Destaques:** Uso de React Server Components para Server-Side Rendering (SSR) focado em SEO, roteamento dinâmico baseado em arquivos (`/movie/[id]`) e integração real com a API REST do TMDB utilizando estratégias inteligentes de cache e revalidação de dados.
 
 #### [📈 StreamBI - Admin Dashboard](https://github.com/paullo-ps/streambi-dashboard)
-Uma dashboard administrativa de Business Intelligence construída com **Next.js 16, React 19 e Tailwind v4**. 
-* **Destaques:** Focada em visualização dinâmica de dados analíticos com a biblioteca Recharts e implementação de uma barra lateral interativa com responsividade híbrida (CSS + JS).
+Uma dashboard administrativa de Business Intelligence construída com **Next.js 16, React 19, Tailwind v4, Shadcn/ui e Lucide Icons**. 
+* **Destaques:** Focada em visualização dinâmica de dados analíticos com a biblioteca Recharts, padrão de design de alto nível e implementação de uma barra lateral interativa com responsividade híbrida (CSS + JS).
 
 #### [🛒 TechStore Dev - Mini E-commerce](https://github.com/paullo-ps/mini-e-commerce)
 Aplicação de comércio eletrônico simplificada construída com **React, TypeScript e Material UI (MUI)**. 
@@ -54,6 +56,7 @@ Aplicação de comércio eletrônico simplificada construída com **React, TypeS
 > 🚧 **Status:** *Em laboratório / Consolidando conceitos de modelagem de dados, APIs RESTful e autenticação.*
 
 <p align="left">
+  <!-- Badges prontas para quando você ativar esta stack -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
