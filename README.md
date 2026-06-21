@@ -21,7 +21,7 @@ Desenvolvedor de Software focado em transformar regras de negócio complexas em 
 
 ## 🖥️ Portfólio: Front-End 
 
-A minha especialidade atual. Foco em componentização inteligente, design responsivo e renderização otimizada no navegador.
+A minha especialidade atual. Foco em componentização inteligente, design responsivo, renderização otimizada e arquitetura moderna baseada em componentes.
 
 <p align="left">
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -31,14 +31,17 @@ A minha especialidade atual. Foco em componentização inteligente, design respo
   <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
 </p>
 
+#### [🎬 MovieApp Next - Catálogo de Filmes](https://github.com/paullo-ps/movie-app-next)
+Aplicação moderna construída com **Next.js 16 (App Router), TypeScript e Tailwind CSS**.
+* **Destaques:** Uso de React Server Components para Server-Side Rendering (SSR) focado em SEO, roteamento dinâmico baseado em arquivos (`/movie/[id]`) e integração real com a API REST do TMDB utilizando estratégias inteligentes de cache e revalidação de dados.
+
 #### [📈 StreamBI - Admin Dashboard](https://github.com/paullo-ps/streambi-dashboard)
-Uma dashboard administrativa construída com **Next.js 16, React 19 e Tailwind v4**. Focada em visualização de dados com Recharts e responsividade híbrida (CSS + JS).
+Uma dashboard administrativa de Business Intelligence construída com **Next.js 16, React 19 e Tailwind v4**. 
+* **Destaques:** Focada em visualização dinâmica de dados analíticos com a biblioteca Recharts e implementação de uma barra lateral interativa com responsividade híbrida (CSS + JS).
 
 #### [🛒 TechStore Dev - Mini E-commerce](https://github.com/paullo-ps/mini-e-commerce)
-Aplicação construída com **React, TypeScript e Material UI (MUI)**. Demonstra gerenciamento de estado do carrinho e persistência de dados via LocalStorage.
-
-#### [🍲 Sistema de Marmitaria](https://github.com/paullo-ps/marmitaria)
-Sistema de automação e gerenciamento de pedidos para restaurante local, desenvolvido com forte tipagem em **TypeScript**.
+Aplicação de comércio eletrônico simplificada construída com **React, TypeScript e Material UI (MUI)**. 
+* **Destaques:** Demonstra domínio em gerenciamento de estado global para o carrinho de compras, persistência de dados local com `LocalStorage` e manipulação avançada de arrays de objetos.
 
 [⬆️ Voltar ao topo](#olá-eu-sou-o-paulo-sérgio-)
 
@@ -51,7 +54,6 @@ Sistema de automação e gerenciamento de pedidos para restaurante local, desenv
 > 🚧 **Status:** *Em laboratório / Consolidando conceitos de modelagem de dados, APIs RESTful e autenticação.*
 
 <p align="left">
-  <!-- Badges prontas para quando você ativar esta stack -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
